@@ -1,0 +1,16 @@
+D:\Trabajo\Repos\C#\manipularSql\manipularSql\bin\Debug\netcoreapp3.1\manipularSql.exe
+D:\Trabajo\Repos\C#\manipularSql\manipularSql\bin\Debug\netcoreapp3.1\manipularSql.deps.json
+D:\Trabajo\Repos\C#\manipularSql\manipularSql\bin\Debug\netcoreapp3.1\manipularSql.runtimeconfig.json
+D:\Trabajo\Repos\C#\manipularSql\manipularSql\bin\Debug\netcoreapp3.1\manipularSql.runtimeconfig.dev.json
+D:\Trabajo\Repos\C#\manipularSql\manipularSql\bin\Debug\netcoreapp3.1\manipularSql.dll
+D:\Trabajo\Repos\C#\manipularSql\manipularSql\bin\Debug\netcoreapp3.1\manipularSql.pdb
+D:\Trabajo\Repos\C#\manipularSql\manipularSql\obj\Debug\netcoreapp3.1\manipularSql.csproj.AssemblyReference.cache
+D:\Trabajo\Repos\C#\manipularSql\manipularSql\obj\Debug\netcoreapp3.1\manipularSql.Form1.resources
+D:\Trabajo\Repos\C#\manipularSql\manipularSql\obj\Debug\netcoreapp3.1\manipularSql.csproj.GenerateResource.cache
+D:\Trabajo\Repos\C#\manipularSql\manipularSql\obj\Debug\netcoreapp3.1\manipularSql.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajo\Repos\C#\manipularSql\manipularSql\obj\Debug\netcoreapp3.1\manipularSql.AssemblyInfoInputs.cache
+D:\Trabajo\Repos\C#\manipularSql\manipularSql\obj\Debug\netcoreapp3.1\manipularSql.AssemblyInfo.cs
+D:\Trabajo\Repos\C#\manipularSql\manipularSql\obj\Debug\netcoreapp3.1\manipularSql.csproj.CoreCompileInputs.cache
+D:\Trabajo\Repos\C#\manipularSql\manipularSql\obj\Debug\netcoreapp3.1\manipularSql.dll
+D:\Trabajo\Repos\C#\manipularSql\manipularSql\obj\Debug\netcoreapp3.1\manipularSql.pdb
+D:\Trabajo\Repos\C#\manipularSql\manipularSql\obj\Debug\netcoreapp3.1\manipularSql.genruntimeconfig.cache
